@@ -40,3 +40,5 @@ or
 
 $ vendor/bin/phpunit tests/MyTest
 ```
+
+End
